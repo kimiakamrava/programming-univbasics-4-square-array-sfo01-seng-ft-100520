@@ -1,4 +1,4 @@
-def square_array(array= [1,2,3])
+def square_array(numbers= [1,2,3])
   new_array = []
   counter = 0 
   while counter < numbers.length(3)
